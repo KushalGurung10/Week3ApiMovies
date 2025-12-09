@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "6423",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama"
+    },
+    {
+      "id": "c486",
+      "title": "The Godfather",
+      "genre": "Crime, Drama",
+      "year": 1972
+    }
+  ]
+}
